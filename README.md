@@ -1,2 +1,5 @@
 # json-db
-json-server db.json files
+
+Access this data like this
+
+https://my-json-server.typicode.com/pbastowski/json-db
